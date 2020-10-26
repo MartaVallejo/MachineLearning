@@ -6,4 +6,3 @@ Here, you can find the code of our hands-on sessions.
 * Here the direct link [Hands-on Sessions Wiki](https://github.com/MartaVallejo/MachineLearning/wiki/List-of-our-hands-on-sessions)
 * Please, check that it works for you. Otherwise, contact me.
 
-[![Binder](https://mybinder.org/badge_logo.svg)]
