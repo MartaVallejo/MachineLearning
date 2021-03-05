@@ -298,7 +298,7 @@ def compare_class(predicted, label, verbose=1, color=True, L=8):
         elif (verbose == 2):
             score = get_all_score(predicted, label, matrix)
             append_layout_col([['ppv', 'acc'], ['f_1']], score, layout)
-            append_layout_row([['tpr', 'tnr']], score, layout)
+            append_layout_row([['tpr', 'tnr']], score, layout, inv=[0,1])
         elif (verbose == 3):
             score = get_all_score(predicted, label, matrix)
             append_layout_col([['ppv', 'fdr', 'acc'],
