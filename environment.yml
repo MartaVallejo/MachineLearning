@@ -9,5 +9,3 @@ dependencies:
   - seaborn
   - pytorch
   - tabulate
-  - orion.algo.skopt
-  - fitter
