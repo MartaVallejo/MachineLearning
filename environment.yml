@@ -8,3 +8,6 @@ dependencies:
   - scikit-learn
   - seaborn
   - pytorch
+  - tabulate
+  - orion.algo.skopt
+  - fitter
