@@ -9,4 +9,3 @@ dependencies:
   - seaborn
   - pytorch
   - tabulate
-  - notebook-as-pdf
